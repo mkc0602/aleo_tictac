@@ -12,7 +12,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author 
+ * @author cv_countriesDAO
  */
 public class CategoriesDAO implements Serializable {
 
